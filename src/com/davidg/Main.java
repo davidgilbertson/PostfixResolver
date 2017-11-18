@@ -167,7 +167,7 @@ public class Main {
             }
 
             // once each row is done, output it
-            System.out.println(String.join(", ", row));
+            System.out.println(String.join(",", row));
         }
     }
 
